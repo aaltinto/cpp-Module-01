@@ -5,3 +5,6 @@
 *.txt
 DS_Store
 *.gch
+*/*.o
+*/*.out
+*/*.out
